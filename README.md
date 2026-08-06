@@ -1,4 +1,3 @@
-# Gaussian-Processes-GANs-GNNs
 # Generative Adversarial Networks Assignment
 
 This project is about the implementation and evaluation of generative adversarial networks (GANs).
